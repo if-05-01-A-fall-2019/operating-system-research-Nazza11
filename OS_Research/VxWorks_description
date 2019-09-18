@@ -1,0 +1,4 @@
+VxWorks is a real-time OS (RTOS) developed by Wind River Systems. 
+VxWorks was first released in 1987 for use in embedded systems wich need a real-time, deterministic performance and security certifications for many industries like robotics, medical devices, energy and network infrastructure.
+It supports the architecture of Intel, POWER and ARM. VxWorks can be used in  asymmetric and symmetric multiprocessing, miced modes and multiOS designs on 32bit and 64bit processors.
+VxWorks can be customized easily.
